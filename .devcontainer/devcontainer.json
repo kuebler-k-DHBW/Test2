@@ -1,4 +1,5 @@
 {
+  "name": "Example of For-loop",
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "postCreateCommand": "pip install numpy",
   "features": {}
